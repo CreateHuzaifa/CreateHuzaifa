@@ -1,73 +1,108 @@
 <div align="center">
 
-# ZAIF ~
+# Yo, I'm Huzaifa 🐴🤙🏻
 
-### Security • Development • Automation
+### Security Enthusiast & Python Developer 🧑‍💻
 
-Building useful systems, automating boring things, and breaking my own code until I understand it.
+<p>
+  <b>Automation • Security • Linux/Termux • Scripting • Developer Tools</b>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://createhuzaifa.github.io/portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&color=111827)](https://github.com/CreateHuzaifa)
-
-</div>
-
----
-
-## ⚡ What I build
-
-**🤖 Zeni'n** — Telegram automation, clan systems, games, personality and persistent backend infrastructure.
-
-**⚡ Invyrax** — JavaScript tooling and compiler experiments.
-
-**🧪 Experiments** — Scripts, automation and practical projects around Linux, Termux and development.
-
----
-
-## 🧰 Tech I use
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,sqlite,postgres,git,github,linux,bash,vscode&perline=10" alt="Python, JavaScript, Node.js, SQLite, PostgreSQL, Git, GitHub, Linux, Bash, VS Code" />
+<p>
+  <a href="https://github.com/CreateHuzaifa">
+    <img src="https://img.shields.io/badge/GitHub-CreateHuzaifa-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://createhuzaifa.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🛠️ My workflow
+## 👨‍💻 About Me
 
-```text
-idea → prototype → break it → debug → automate → ship
-```
+I'm a developer focused on **automation, scripting, security-minded tooling and Linux/Termux workflows**.
 
-I learn by building real things, experimenting, and fixing what I break.
-
----
-
-## 🚀 Featured projects
-
-| Project | Focus |
-| --- | --- |
-| **Invyrax** | JavaScript tooling / compiler experiments |
-| **Zeni'n** | Telegram automation & backend systems |
+- 🌍 Building from **India**
+- 💻 Into **Python, JavaScript, Node.js & Linux**
+- 🤖 Building Telegram automation with **Zeni'n**
+- ⚡ Building developer tooling with **Invyrax**
+- 🧪 Always experimenting with something new
 
 ---
 
-## 📈 Contribution activity
+## 🧠 Skills
 
 <div align="center">
 
-<!-- The snake is generated automatically by GitHub Actions. -->
-<img src="./output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,html,css,git,github,linux,bash,vscode,sqlite,postgres,react,express,docker&perline=8" />
 
 </div>
 
 ---
 
-## 🌐 Links
+## 🚀 What I'm Building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Invyrax
+
+JavaScript-focused developer tooling and compiler experiments.
+
+**Focus:** JavaScript · tooling · experiments
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Zeni'n
+
+Telegram automation platform with clan systems, games, personality and persistent storage.
+
+**Focus:** Node.js · Telegram · PostgreSQL · automation
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-[**Portfolio ↗**](https://createhuzaifa.github.io/portfolio/) · [**GitHub ↗**](https://github.com/CreateHuzaifa)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=CreateHuzaifa&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CreateHuzaifa&layout=compact&hide_border=true&theme=github_dark" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="./output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://github.com/CreateHuzaifa">
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="42" />
+</a>
+&nbsp;&nbsp;
+<a href="https://createhuzaifa.github.io/portfolio/">
+  <img src="https://cdn.simpleicons.org/googlechrome/ffffff" width="42" />
+</a>
 
 </div>
 
@@ -75,8 +110,11 @@ I learn by building real things, experimenting, and fixing what I break.
 
 <div align="center">
 
-### 🌚 Currently building instead of sleeping.
+### Building instead of sleeping ~
 
-Σ Offline lugai ki need ~ 
+
+<br>
+
+  السلام عليكم ورحمة الله وبركاته  
 
 </div>
