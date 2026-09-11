@@ -74,9 +74,9 @@ Telegram automation platform with clan systems, games, personality and persisten
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=CreateHuzaifa&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CreateHuzaifa&theme=github_dark" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CreateHuzaifa&layout=compact&hide_border=true&theme=github_dark" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CreateHuzaifa&theme=github_dark" />
 
 </div>
 
